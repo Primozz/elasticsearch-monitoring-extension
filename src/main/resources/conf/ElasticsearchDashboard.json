@@ -734,7 +734,7 @@
         },
         {
             "widgetType": "GraphWidget",
-            "title": "Custer Stats.Number of Documents",
+            "title": "Cluster Stats.Number of Documents",
             "height": 2,
             "width": 3,
             "minHeight": 0,
@@ -823,7 +823,7 @@
         },
         {
             "widgetType": "GraphWidget",
-            "title": "Custer Stats.Status",
+            "title": "Cluster Stats.Status",
             "height": 2,
             "width": 3,
             "minHeight": 0,
@@ -912,7 +912,7 @@
         },
         {
             "widgetType": "GraphWidget",
-            "title": "Custer Stats.Unassigned Shards",
+            "title": "Cluster Stats.Unassigned Shards",
             "height": 2,
             "width": 3,
             "minHeight": 0,
